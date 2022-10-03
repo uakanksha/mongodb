@@ -1,4 +1,4 @@
-# MongoDB INSTALLATION for LINUX (CLI)
+# MongoDB Installationfor LINUX (CLI)
 
 ```bash
 $ sudo apt-get update 
@@ -14,4 +14,8 @@ $ sudo service mongodb start
 To restart mongodb from the terminal
 ```bash
 $ mongo
+```
+To exit mongodb from terminal
+```bash
+$ exit
 ```
